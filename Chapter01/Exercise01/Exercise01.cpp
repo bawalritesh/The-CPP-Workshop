@@ -1,8 +1,8 @@
 //Hello world example.
-#include <iostream>
+#include <iostream.h>
 
 int main() 
 {
-    std::cout << "Hello World!";
+    std:cout << "Hello World!";
     return 0;
 }
